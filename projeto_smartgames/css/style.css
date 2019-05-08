@@ -1,0 +1,171 @@
+/*Header*/
+.logo_smartgames{
+	height:140px;
+	width: auto;
+}
+
+/*Conteúdo Principal*/
+#conteudo_principal{
+	margin: 50px 0px;
+}
+
+.div_jogos{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.identificacao_jogo,
+.preco_jogo{
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+	font-weight: 600;
+	margin:2.5px;
+}
+
+.preco_jogo{
+	font-weight: bold;
+	color: rgba(255,0,0,1.0);
+	font-size: 26px;
+}
+
+.imagem_capa_jogo{
+	height: 322px; 
+	width: auto;
+}
+
+.imagem_capa_jogo:hover{
+	transition: 1s;
+	opacity: 0.5;
+}
+
+/** MODAL STYLE **/
+.modal-header h3{
+	font-weight: 600;
+	color: #666666;
+}
+
+.item_descricao,
+.identificacao_jogo{
+	color: #666666;
+	font-size: 18px;
+	font-weight: 600;
+}
+
+.item_descricao{
+	margin: 2px;
+}
+
+.informacoes_jogo{
+	margin-right: 10px;
+}
+
+.informacoes_jogo img{
+	height: 322px; 
+	width: auto;
+}
+
+.modal_jogos_lojas{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.jogo_individual{
+	cursor: pointer;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	margin: 20px;
+}
+
+.descricao_jogo{
+	margin-top: 30px;
+}
+
+.descricao_jogo p{
+	width: 450px;
+}
+
+.informacoes_lojas{
+	display: flex;
+	flex-direction: column;
+	align-content: space-between;
+}
+
+.loja_individual{
+	height: 170px;
+	width: auto;
+	cursor: default;
+	margin-bottom: 30px;
+}
+
+.loja_individual p{
+	margin: 0px;
+	font-size: 15px;
+}
+
+.loja_individual h3{
+	font-weight: 600;
+	cursor: pointer;
+	font-size: 24px;
+	color: #117a8b;
+}
+
+.loja_individual h3:hover{
+	color: #ba5c00;
+	transition: 0.5s;
+}
+
+.lojas{
+	width: 320px;
+	margin-right: 20px;
+}
+
+.lojas_mapa{
+	display: flex;
+	flex-direction: row;
+	margin-top: 30px;
+}
+
+.localizacao{
+	display: flex;
+	flex-direction: column;
+	margin-right: 600px;	
+}
+
+.localizacao h2{
+	text-align: center;
+	font-weight: 600;
+	color: #117a8b;
+}
+
+iframe{
+	width: 450px; 
+	height: 300px;  
+	border:2px solid #666666;
+}
+
+/*Footer*/
+#footer_menu{
+	display: flex;
+	flex-direction: column;
+	margin-left: 50px;
+}
+
+#footer_logo p{
+	color: #ffffff;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+	text-align: center;
+	font-weight: 400;
+}
+
+
+
+
+
+
+
+
+
+
