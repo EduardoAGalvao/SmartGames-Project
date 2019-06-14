@@ -1,37 +1,21 @@
-# SmartGames 
-
+# SmartGames Project
 ---
 
-A SmartGames é uma empresa fictícia, criada para fins de teste de desenvolvimento.
+SmartGames is a fictitious company created for development testing purposes.
 
+The system aims to display games images that perform events when clicked, such as displaying their details, stores with stock and corresponding maps, according to information stored in a database.
 
+A database called "db_smartgames" was created, where its games and stores information was extracted from Livraria Saraiva's stores, only as a model for testing purposes, and the practices and information of the test should not be related to the information of the physical stores.
 
-O sistema tem como objetivo a exibição de jogos que realizam eventos quando clicados, como exibir seus detalhes, lojas com estoque e mapas correspondentes, de acordo com informações armazenadas em banco de dados.
+* It is a fictitious system and company for learning purposes, not being made available as an online application.
 
+* The store information was important to have a reference on the map displayed, all addresses, phone numbers and CEP codes were taken from the site itself.
 
+* The game images were also extracted from Livraria Saraiva's website, not representing the property of the author of the system, as well as its details.
 
-Foi criado um banco de dados chamado "db_smartgames", onde suas informações de jogos e lojas foram extraídos das lojas da Livraria Saraiva, somente como modelo para fins de teste, não devendo ser relacionadas as práticas e informações do teste com as informações das lojas físicas.
+* The project was developed with the PHP and JavaScript languages, as well as includes Bootstrap as a framework and the JQuery library.
 
+[Source for information about stores](https://www.saraiva.com.br/nossas-lojas "Livraria Saraiva - Nossas Lojas")
 
+[Source for information about the games](https://www.saraiva.com.br/ "Livraria Saraiva")
 
-* Trata-se de um sistema e empresa fictícios e para fins de aprendizado, não sendo disponibilizado como aplicação online.
-
-
-
-* As informações das lojas eram importantes para haver uma referência no mapa exibido, todos os endereços, números de telefone e CEP foram retirados do próprio site.
-
-
-
-* As imagens de jogos também foram extraídas do site da Livraria Saraiva, não representando propriedade do autor do sistema, assim como seus detalhes.
-
-
-
-* O projeto foi desenvolvido com as linguagens PHP e JavaScript, assim como inclui o Bootstrap como framework e a bilioteca JQuery.
-
-
-
-[Fonte para informações sobre as lojas](https://www.saraiva.com.br/nossas-lojas "Livraria Saraiva - Nossas Lojas")
-
-
-
-[Fonte para informações sobre os jogos](https://www.saraiva.com.br/ "Livraria Saraiva")
