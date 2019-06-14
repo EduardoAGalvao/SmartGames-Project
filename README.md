@@ -19,3 +19,5 @@ A database called "db_smartgames" was created, where its games and stores inform
 
 [Source for information about the games](https://www.saraiva.com.br/ "Livraria Saraiva")
 
+*Everything made with a lot of curiosity and programming passion*
+
